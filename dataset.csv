@@ -1,0 +1,11 @@
+id,Course ,Enrollment,name,gender,dob,Address,email,ssc,hsc,gr,dgree,university,pg Avgtill
+1,MCA,201900319010182,Manan,Male,08-08-2002,Ahmedabad,man@gmail.com,59.00%,74.00%,2022,BCA,GLS,80
+2,MSCIT,201900319010178,Kanan,Female,21-03-2001,Surat,kan@gmail.com,60.00%,84.00%,2022,BCA,INDUS,84
+3,MCA,201900319010145,Dipen,Male,24-12-2001,Ahmedabad,dipen@gmail.com,59.00%,76.00%,2022,BCA,GLS,90
+4,MCA,201900319010165,Suraj,Male,01-01-2002,Baroda,suraj@gmail.com,68.00%,70.00%,2022,BCA,GUJ,50
+5,MSCIT,201900319010133,Krunal,Male,02-02-2002,Rajkot,k@gmail.com,55.00%,85.00%,2022,BTECH,GUJ,90
+6,MCA,201900319010112,Yash,Male,03-03-2002,Ahmedabad,yash@gmail.com,85.00%,45.00%,2022,BCA,GUJ,98
+7,MSCIT,201900319010122,Zeel,Female,04-04-2002,Surat,zeel@gmail.com,55.00%,55.00%,2021,BCOM,GLS,65
+8,MCA,201900319010169,Femil,Male,19-09-2001,Ahmedabad,ke@gmail.com,89.00%,89.00%,2022,BBA,GUJ,85
+9,MCA,201900319010155,Khushi,Female,22-09-2001,Rajkot,kh@gma.com,55.00%,95.00%,2022,BCA,GLS,65
+10,MCA,2019003190410112,Jay,Male,12-12-2002,Surat,jay@gmail.com,66.00%,75.00%,2021,BBA,INDUS,75
